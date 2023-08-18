@@ -16,7 +16,7 @@ Hi!😁 I'm Yifan Li (李一凡). I am currently a junior undergraduate at [Yuan
 - [Introduction to computer vision](https://github.com/lyf1212/PKU_Introduction-to-Computer-Vision/tree/main)
   
 - Computational Photography
-  [A survey of ISP](https://github.com/lyf1212/lyf1212.github.io/_learning/A_Survey_of_ISP.pdf)
+  [A survey of ISP](https://github.com/lyf1212/lyf1212.github.io/blob/master/_learning/A%20survey%20of%20ISP.pdf)
 
   
 # 👀Publication

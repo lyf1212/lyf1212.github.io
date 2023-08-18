@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi!😁 I'm Yifan Li (李一凡). I am currently a junior undergraduate at [Yuanpei College](https://yuanpei.pku.edu.cn/en/), [Peking University](https://www.pku.edu.cn/), major in Data Science and Big Data Technology. I've joined in the Spatial and Temporal Restoration, Understanding and Compression Team [(STRUCT)](http://39.96.165.147/struct.html) as an undergraduate intern. My current research interests are computer vision and computational photography, especially image/video restoration and enhancement.
+Hi!😁 I'm Yifan Li (李一凡). I am currently a junior undergraduate at [Yuanpei College](https://yuanpei.pku.edu.cn/en/), [Peking University](https://www.pku.edu.cn/), major in Data Science and Big Data Technology. I've joined in the Spatial and Temporal Restoration, Understanding and Compression Team [(STRUCT)](http://39.96.165.147/struct.html) as an undergraduate intern, supervised by [Prof. Jiaying Liu](http://39.96.165.147/people/liujiaying.html). My current research interests are computer vision and computational photography, especially image/video restoration and enhancement.
 # 📖Learning
 - [ICS (Introduction to computer system) Labs](https://github.com/lyf1212/CSAPP_Lab)
   

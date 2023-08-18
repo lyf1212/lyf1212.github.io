@@ -12,10 +12,11 @@ Hi!😁 I'm Yifan Li (李一凡). I am currently a junior undergraduate at [Yuan
 # 📖Learning
 - [ICS (Introduction to computer system) Labs](https://github.com/lyf1212/CSAPP_Lab)
   
-  parts of the most tough labs I have ever done before
+  (parts of the most tough labs I have ever done before)
 - [Introduction to computer vision](https://github.com/lyf1212/PKU_Introduction-to-Computer-Vision/tree/main)
   
 - Computational Photography
+  
   [A survey of ISP](https://github.com/lyf1212/lyf1212.github.io/blob/master/_learning/A%20survey%20of%20ISP.pdf)
 
   

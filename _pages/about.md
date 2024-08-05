@@ -8,16 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-Hi!😁 I'm Yifan Li (李一凡). I am currently a junior undergraduate at [Yuanpei College](https://yuanpei.pku.edu.cn/en/), [Peking University](https://www.pku.edu.cn/), major in Data Science and Big Data Technology. I've joined in the Spatial and Temporal Restoration, Understanding and Compression Team [(STRUCT)](http://39.96.165.147/struct.html) as an undergraduate intern, supervised by [Prof. Jiaying Liu](http://39.96.165.147/people/liujiaying.html). My current research interests are computer vision and computational photography, especially image/video restoration and enhancement.
+Hi!😁 I'm Yifan Li (李一凡). I am currently a senior undergraduate at [Yuanpei College](https://yuanpei.pku.edu.cn/en/), [Peking University](https://www.pku.edu.cn/), major in Data Science and Big Data Technology. I've joined in the Spatial and Temporal Restoration, Understanding and Compression Team [(STRUCT)](http://39.96.165.147/struct.html) as an undergraduate intern, supervised by [Prof. Jiaying Liu](http://39.96.165.147/people/liujiaying.html) and [Prof. Shuai Yang](https://williamyang1991.github.io/). My current research interests are computer vision and computational photography, especially image/video restoration and enhancement. Now I am working on image/video colorization, trying my best to restore a colorful and vivid world!
 # 📖Learning
-- [ICS (Introduction to computer system) Labs](https://github.com/lyf1212/CSAPP_Lab)
-  
-  (parts of the most tough labs I have ever done before)
-- [Introduction to computer vision](https://github.com/lyf1212/PKU_Introduction-to-Computer-Vision/tree/main)
-  
-- Computational Photography
-  
-  [A survey of ISP](https://github.com/lyf1212/lyf1212.github.io/blob/master/_learning/A%20survey%20of%20ISP.pdf)
+- [Introduction to Computer Vision](https://github.com/lyf1212/PKU_Introduction-to-Computer-Vision/tree/main)
+  - If you come from PKU and you are keen on Computer Vision, but you have never take [Prof. He Wang](https://hughw19.github.io/)'s courses, it is a great pity.
+    
+- [<font size=10> ICS (Introduction to computer system) Labs </font>](https://github.com/lyf1212/CSAPP_Lab)
+  - (parts of the most tough labs I have ever done before)
+
+- Foundation of Generative Models (By [Prof. Di He](https://dihe-pku.github.io/))
+  - Selected Report 1: ["An Easy Attempt of DDPM and DDIM on MNIST"](https://github.com/lyf1212/lyf1212.github.io/blob/master/_learning/foundation_of_generative_model_hw2.pdf)
+  - Selected Report 2: ["Boost Diffusion with VAE Reconstruction"](https://github.com/lyf1212/lyf1212.github.io/blob/master/_learning/foundation_of_generative_model_final_report.pdf) 
+
+- Multimodal Learning (By [Prof. Yang Liu](http://www.csyangliu.com/))
+  - Selected Report: ["Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation: A Replication and Beyond"](https://github.com/lyf1212/lyf1212.github.io/blob/master/_learning/multimodal_report.pdf)
+    
+- Computational Photography (By [Prof. Boxin Shi](https://camera.pku.edu.cn/team))
+  - ["A Brief Survey of ISP"](https://github.com/lyf1212/lyf1212.github.io/blob/master/_learning/A%20survey%20of%20ISP.pdf)
+    - It was the first time I had written a report in English, and the expression was so irregular, unclear, and unprofessional, so I put this article here to warn myself not to do such a low-quality thing in the future. 😂
 
   
 # 👀Publication

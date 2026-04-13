@@ -212,7 +212,7 @@ enable_masonry: true
 enable_math: true 
 enable_tooltips: false 
 enable_darkmode: true 
-enable_navbar_social: true # 建议开启，可以在导航栏显示 GitHub/邮件 等图标
+enable_navbar_social: false # 建议开启，可以在导航栏显示 GitHub/邮件 等图标
 enable_project_categories: true 
 enable_medium_zoom: true 
 enable_progressbar: true 

@@ -11,7 +11,7 @@ description: >
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-keywords: jekyll, academic-website, portfolio, computer-vision, ai # 稍微精简了关键词
+keywords: jekyll, academic-website, portfolio, computer-vision, ai
 lang: en 
 icon: ⚛️ 
 
@@ -159,12 +159,12 @@ enable_publication_badges:
   altmetric: true 
   dimensions: true 
   google_scholar: true 
-  inspirehep: false # 高能物理专用的，CV/AI领域通常用不到，我帮你关了
+  inspirehep: false
 
 filtered_bibtex_keywords:
   [abbr, abstract, additional_info, altmetric, annotation, arxiv, award, award_name, bibtex_show, blog, code, dimensions, eprint, google_scholar_id, hal, html, inspirehep_id, pdf, pmid, poster, preview, selected, slides, supp, video, website]
 
-max_author_limit: 8 # 默认是3，考虑到现在顶会作者往往较多，调大了一点
+max_author_limit: 8
 more_authors_animation_delay: 10 
 enable_publication_thumbnails: true
 
@@ -218,10 +218,7 @@ enable_medium_zoom: true
 enable_progressbar: true 
 enable_video_embedding: false 
 
-# -----------------------------------------------------------------------------
-# Library versions (保持不变，千万别删)
-# -----------------------------------------------------------------------------
-# 【注意：请把你原文件中 "third_party_libraries:" 及之后的所有内容，原封不动地粘贴在这里】
+
 # -----------------------------------------------------------------------------
 # Library versions
 # -----------------------------------------------------------------------------

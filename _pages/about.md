@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi!😁 I'm Yifan Li (李一凡). I am currently a first-year PhD student at [Peking University](https://www.pku.edu.cn/).
+Hi!😁 I'm Yifan Li (李一凡). I am currently a second-year PhD student at [Peking University](https://www.pku.edu.cn/).
 I am honored to join in the Spatial and Temporal Restoration, Understanding and Compression Team [(STRUCT)](http://39.96.165.147/struct.html) since 2023, supervised by [Prof. Jiaying Liu](http://39.96.165.147/people/liujiaying.html), [Prof. Shuai Yang](https://williamyang1991.github.io/) and [Prof. Wenhan Yang](https://flyywh.github.io/). 
 I obtained my Bachelor’s degree in Data Science from [Yuanpei College](https://yuanpei.pku.edu.cn/en/), [Peking University](https://www.pku.edu.cn/).
 
